@@ -1,2 +1,2 @@
-# keita-home
+# aruto-home
 アルトのまあるい居場所
