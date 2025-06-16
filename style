@@ -1,0 +1,32 @@
+body {
+  font-family: 'Hiragino Kaku Gothic ProN', sans-serif;
+  background-color: #fef9f4;
+  color: #333;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.line-button {
+  display: inline-block;
+  background-color: #00c300;
+  color: white;
+  padding: 15px 30px;
+  font-size: 1.2em;
+  border-radius: 50px;
+  text-decoration: none;
+  margin-top: 20px;
+  transition: background 0.3s;
+}
+
+.line-button:hover {
+  background-color: #00a000;
+}
